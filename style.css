@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto' sans-serif;
+    font-size: 21px;
+    margin: 0;
+    font-weight: normal;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    
+}
+h2{
+    font-size: 42px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+h3{
+    font-size: 36px;
+}
+.small{
+    font-size: 16px;
+}
+.header{
+    background-color: #d7d7d7;
+    padding: 100px 0;
+
+}
+
+.aboutmME{
+    background-color: #ffeaea;
+    padding: 100px 0;
+   }
+   .article{ 
+       background-color: #eaf9ff;
+       padding: 100px 0;
+      
+   }
+   .heading{
+       margin-bottom: 10px;
+       font-weight: 100;
+   }
+   .heading1 {
+       font-weight: bold;
+       font-size: 80px;
+       line-height: 1.2;
+   }
+   .heading2{
+       font-weight: bold;
+       font-size: 80px;
+       line-height: 1.2;
+   }
+   .heading3{
+       font-weight: bold;
+       font-size: 80px;
+       line-height: 1.2;
+   }
